@@ -38,8 +38,14 @@ Para cada problema resolvido, seguiremos esse fluxo:
    - Registrar o link ou o enunciado no arquivo correspondente.
 
 2. **Implementar a solução**  
-   - O responsável do dia implementa a solução no arquivo do desafio.
-   - Focar primeiro em fazer funcionar, depois refinar.
+   - O responsável do dia escolhe o desafio e propõe para ambos.
+   - **Tanto o responsável quanto o outro membro da dupla devem resolver o mesmo desafio**, cada um criando sua própria abordagem.
+   - Após isso, ambos comparam e discutem suas soluções:
+     - Identificando diferenças de raciocínio
+     - Avaliando vantagens e desvantagens de cada implementação
+     - Juntando ideias para possíveis melhorias
+   - A primeira etapa é focar em **fazer funcionar**, e depois **refinar** juntos, se fizer sentido.
+
 
 3. **Publicar o código no GitHub**  
    - Commit com mensagem clara (ex: `feat: add solution for two-sum (Lucas)`).
