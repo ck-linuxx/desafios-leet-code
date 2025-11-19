@@ -9,6 +9,7 @@ public class Solution
     int[] array = [1, 2, 8, 9, 10];
     int[] array2 = [3, 4, 5, 12, 15];
 
+// TEMPO: 1H20
     public Array Merge(int[] nums1, int m, int[] nums2, int n)
     {
         // fiz isso aqui e estava errado.
