@@ -1,4 +1,4 @@
-# Tempo de pesquisa, desde o assunto ate a linguagem:
+# Tempo de pesquisa junto a resolucao do desafio: 02:08:35
 # Deabilitado a conclusão de codigo do copilot
 # Link utilizado como refenrencia sobre o assunto: https://guilherme-rmendes95.medium.com/algoritmos-merge-sort-ef12dadeba2a
 
