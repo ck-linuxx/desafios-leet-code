@@ -43,5 +43,6 @@ def merge_sorted_arrays(arr, arr2):
   return arrayOrdenado
 
 print(merge_sorted_arrays(array, array2))
+# [1, 2, 3, 4, 5, 8, 9, 10, 12, 15]
     
   
